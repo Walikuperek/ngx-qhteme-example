@@ -1,7 +1,13 @@
+screenshotOf: this example project
 ![light](github-assets/example_light.png)
 
-# How to use ngx-qhteme example
+# ngx-qhteme example
+This project is made as an example usage of Angular library `ngx-qtheme`
+
+## Where I can find ngx-qtheme package?
 Package can be found on NPM, here: [ngx-qtheme](https://www.npmjs.com/package/ngx-qtheme)
+
+Or simply type `ng add ngx-qtheme` within your-angular-project root folder
 
 ## How to install this example project?
 1. `git clone` or download zip with this repo
