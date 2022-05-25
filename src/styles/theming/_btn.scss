@@ -1,0 +1,14 @@
+.btn {
+  background-color: var(--action);
+  color: var(--action-text);
+
+  &-primary {
+    background-color: var(--action-primary);
+    color: var(--action-primary-text);
+  }
+
+  &-secondary {
+    background-color: var(--action-secondary);
+    color: var(--action-secondary-text);
+  }
+}
